@@ -1,3 +1,4 @@
+import "./style.css";
 import { contents } from "./food.js";
 import {menu} from "./menu.js";
 import {contacts} from "./contact.js";
